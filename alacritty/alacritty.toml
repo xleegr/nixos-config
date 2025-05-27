@@ -1,0 +1,6 @@
+[window]
+opacity = 1.0
+
+[font]
+normal = { family = "JetBrains Mono", style = "regular" }
+
